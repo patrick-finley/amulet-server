@@ -1,3 +1,3 @@
 # amulet-server
 
-backend for github.com/patrick-finley/amulet-web
+backend for [amulet project](github.com/patrick-finley/amulet-web)
